@@ -1,0 +1,21 @@
+{
+  "name": "modify_excel_document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "read-excel-file": "^5.5.3",
+    "write-excel-file": "^1.4.19",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/xlsx": "^0.0.36"
+  }
+}
