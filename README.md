@@ -1,6 +1,6 @@
 A simple script to change dates in a specific file to a specific format
 
-# ToDoCli
+# Excel Date Modifier
 
 A simple CLI tool to manage your todo list in a console environment. Now including support for project specific todos!
 
